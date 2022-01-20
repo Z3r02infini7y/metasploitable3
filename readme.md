@@ -1,5 +1,3 @@
 # Penetration Testing on Metasploitable3
-
-This project is made by: Sarpreet Singh, Simranjit Singh, Shubi Khajuria & Sandeep Singh.
-In this project we performed Penetration testing on Metasploitable3(intentionally vulnerable
+Metasploitable3 is a free virtual machine that allows you to simulate real world attacks. In this project i performed Penetration testing on Metasploitable3(intentionally vulnerable
 machine).
